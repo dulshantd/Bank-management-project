@@ -249,9 +249,9 @@ in the Software without restriction.
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - dulshandissanayaka480@gmail.com
 
-**Project Link**: [https://github.com/yourusername/bank-management-system](https://github.com/yourusername/bank-management-system)
+**Project Link**: [https://github.com/dulshantd/bank-management-system](https://github.com/dulshantd/bank-management-system)
 
 ---
 
