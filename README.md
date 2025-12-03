@@ -35,7 +35,7 @@ typedef struct {
 ## Demonstration
 
 ### Screenshot 1
-![Screenshot 1](https://raw.githubusercontent.com/dulshantd/Bank-management-project/main/ss1.png)
+![Screenshot 1](https://github.com/dulshantd/Bank-management-project/blob/main/Demonstrations/ss1.png)
 
 ### Screenshot 2
 ![Screenshot 2](https://raw.githubusercontent.com/dulshantd/Bank-management-project/main/ss2.png)
