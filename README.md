@@ -251,7 +251,7 @@ in the Software without restriction.
 
 **Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - dulshandissanayaka480@gmail.com
 
-**Project Link**: [https://github.com/dulshantd/bank-management-system](https://github.com/dulshantd/bank-management-system)
+**Project Link**: [https://github.com/dulshantd/bank-management-system](https://github.com/dulshantd/Bank-management-project)
 
 ---
 
