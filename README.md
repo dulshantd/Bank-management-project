@@ -8,7 +8,7 @@
 
 **A comprehensive bank management system with secure authentication and file-based storage**
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation)
+[Features](#Demonstrations) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation)
 
 </div>
 
@@ -255,7 +255,7 @@ in the Software without restriction.
 
 **Whatsapp** - [Dulshan Dissanayaka](https://wa.link/1w5wfe)
 
-**Project Link**: [https://github.com/dulshantd/bank-management-system](https://github.com/dulshantd/Bank-management-project)
+**Project Link**: [Bank Management System](https://github.com/dulshantd/Bank-management-project)
 
 ---
 
