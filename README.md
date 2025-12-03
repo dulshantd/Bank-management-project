@@ -1,5 +1,12 @@
 # Bank Management System (C)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Type-Console%20App-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
+</p>
+
+
 A simple console-based Bank Management System written in C using file handling.
 
 ## Features
