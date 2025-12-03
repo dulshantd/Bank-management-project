@@ -27,13 +27,13 @@ typedef struct {
 ```
 - Demonstration
   
-Screenshot 1:
+- Screenshot 1:
 https://github.com/dulshantd/Bank-management-project/blob/main/ss1.png
-Screenshot 2:
+- Screenshot 2:
 https://github.com/dulshantd/Bank-management-project/blob/main/ss2.png
-Screenshot 3:
+- Screenshot 3:
 https://github.com/dulshantd/Bank-management-project/blob/main/ss3.png
-Screenshot 4:
+- Screenshot 4:
 https://github.com/dulshantd/Bank-management-project/blob/main/ss4.png
-Screenshot 5:
+- Screenshot 5:
 https://github.com/dulshantd/Bank-management-project/blob/main/ss5.png
