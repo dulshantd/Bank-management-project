@@ -8,8 +8,6 @@
 
 **A comprehensive bank management system with secure authentication and file-based storage**
 
-[Features](#Demonstrations) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation)
-
 </div>
 
 ---
