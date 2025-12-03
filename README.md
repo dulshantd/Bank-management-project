@@ -249,8 +249,10 @@ in the Software without restriction.
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - dulshandissanayaka480@gmail.com
-**Whatsapp** - Dulshan Dissanayaka - (https://wa.link/1w5wfe)
+**Dulshan Dissanayaka** - [LinkedIn](https://twitter.com/yourtwitter) - dulshandissanayaka480@gmail.com
+
+**Whatsapp** - [Dulshan Dissanayaka](https://wa.link/1w5wfe)
+
 **Project Link**: [https://github.com/dulshantd/bank-management-system](https://github.com/dulshantd/Bank-management-project)
 
 ---
