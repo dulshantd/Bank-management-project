@@ -249,7 +249,9 @@ in the Software without restriction.
 
 ## 📧 Contact
 
-**Dulshan Dissanayaka** - [LinkedIn](https://www.linkedin.com/in/dulshan-dissanayaka/) - dulshandissanayaka480@gmail.com
+**Dulshan Dissanayaka** - [LinkedIn](https://www.linkedin.com/in/dulshan-dissanayaka/)
+
+**E-mail** - [Personal](dulshandissanayaka480@gmail.com)
 
 **Whatsapp** - [Dulshan Dissanayaka](https://wa.link/1w5wfe)
 
