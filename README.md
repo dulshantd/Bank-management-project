@@ -23,3 +23,8 @@ typedef struct {
     char password[20];
     float balance;
 } Account;
+
+```
+Demonstration
+Screenshot 1:
+https://github.com/dulshantd/Bank-management-project/blob/main/ss1.png
