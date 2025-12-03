@@ -1,32 +1,25 @@
-Bank Management System in C
+# Bank Management System (C)
 
-This is a simple console-based Bank Management System developed in the C programming language. It allows users to create bank accounts, secure them with passwords, and perform basic banking operations such as deposits, withdrawals, and balance inquiries. Account data is stored using binary files, making transactions persistent across sessions.
+A simple console-based Bank Management System written in C using file handling.
 
-🔧 Features
+## Features
 
-Create a new bank account
+- Create new account
+- Secure login using password
+- Deposit money
+- Withdraw money
+- Check account balance
+- Display all accounts
+- Data stored in binary file (`accounts.dat`)
 
-Secure login using password authentication
+## How It Works
 
-Deposit money
+Accounts are stored as a binary struct:
 
-Withdraw money
-
-Check account balance
-
-Display all registered accounts
-
-Data persistence using binary files
-
-🗂️ How It Works
-
-Each account is stored as a struct in a binary file (accounts.dat).
-Whenever a transaction occurs, the program:
-
-Reads all accounts
-
-Updates the target account
-
-Saves data to a temporary file
-
-Replaces the original file
+```c
+typedef struct {
+    int accNum;
+    char name[50];
+    char password[20];
+    float balance;
+} Account;
